@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScoreKeeper_w20</string>
+    <string name="teamA_title">Team A</string>
+    <string name="teamB_title">Team B</string>
+    <string name="teamA_score">0</string>
+    <string name="teamB_score">0</string>
+    <string name="decrease">-</string>
+    <string name="increase">+</string>
+    <string name="score_1">1</string>
+    <string name="score_2">2</string>
+    <string name="score_3">3</string>
+</resources>
